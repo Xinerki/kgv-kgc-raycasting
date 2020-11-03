@@ -110,8 +110,8 @@ function DoRaycasting()
 	-- startRot = GetFinalRenderedCamRot(1)
 	-- startRot = vector3(-startRot.x, startRot.y, startRot.z)
 		
-	for x=0,resX do
 	for y=0,resY do
+	for x=0,resX do
 		
 		local progress = (x/resX)
 		local angleX = startRot.z+-((-fov/2) + fov * progress)
