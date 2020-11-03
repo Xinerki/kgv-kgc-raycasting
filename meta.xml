@@ -1,0 +1,4 @@
+<meta>
+    <info authorserial="8F8FC5C3A66C18F01C9D96B54A8C9A84" name="" type="script" author="Xinerki" version="1.0" description="raycasting stupidity"></info>
+    <script type="client" src="client.lua"></script>
+</meta>
